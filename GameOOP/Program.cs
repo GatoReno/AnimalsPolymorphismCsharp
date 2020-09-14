@@ -11,9 +11,9 @@ namespace GameOOP
             Warrior bob = new Warrior("Etho", 1000, 120, 40);
 
             Battle.StartFight(maximus, bob);
-
+            //Console.WriteLine("Hello Warriors!");
             Console.ReadLine();
-            Console.WriteLine("Hello Warriors!");
+           
         }
     }
 }

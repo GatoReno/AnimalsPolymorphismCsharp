@@ -45,8 +45,8 @@ namespace GameOOP.Classes
             {
                 dmgWar2 = 0;
             }
-            Console.WriteLine("{0} attacks {1} and deals {2} damage",
-                w1.Name, w2.Name, dmgWar2);
+            Console.WriteLine("{0} attacks health {1}  and deals {2} damage / {3} attacks health {4}   ",
+                w2.Name, w2.Health, dmgWar2,w1.Name, w1.Health);
 
             if (w2.Health <= 0)
             {
