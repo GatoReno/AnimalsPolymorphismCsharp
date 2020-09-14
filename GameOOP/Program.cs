@@ -1,4 +1,5 @@
 ﻿using System;
+using GameOOP.Classes;
 
 namespace GameOOP
 {
@@ -6,7 +7,13 @@ namespace GameOOP
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Warrior maximus = new Warrior("Maximus", 1000, 120, 40);
+            Warrior bob = new Warrior("Etho", 1000, 120, 40);
+
+            Battle.StartFight(maximus, bob);
+
+            Console.ReadLine();
+            Console.WriteLine("Hello Warriors!");
         }
     }
 }

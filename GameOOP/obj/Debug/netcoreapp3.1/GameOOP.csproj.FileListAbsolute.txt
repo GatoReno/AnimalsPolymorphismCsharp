@@ -1,0 +1,12 @@
+/Users/dmn/Projects/Polymorphism/GameOOP/bin/Debug/netcoreapp3.1/GameOOP.deps.json
+/Users/dmn/Projects/Polymorphism/GameOOP/bin/Debug/netcoreapp3.1/GameOOP.runtimeconfig.json
+/Users/dmn/Projects/Polymorphism/GameOOP/bin/Debug/netcoreapp3.1/GameOOP.runtimeconfig.dev.json
+/Users/dmn/Projects/Polymorphism/GameOOP/bin/Debug/netcoreapp3.1/GameOOP.dll
+/Users/dmn/Projects/Polymorphism/GameOOP/bin/Debug/netcoreapp3.1/GameOOP.pdb
+/Users/dmn/Projects/Polymorphism/GameOOP/obj/Debug/netcoreapp3.1/GameOOP.csprojAssemblyReference.cache
+/Users/dmn/Projects/Polymorphism/GameOOP/obj/Debug/netcoreapp3.1/GameOOP.AssemblyInfoInputs.cache
+/Users/dmn/Projects/Polymorphism/GameOOP/obj/Debug/netcoreapp3.1/GameOOP.AssemblyInfo.cs
+/Users/dmn/Projects/Polymorphism/GameOOP/obj/Debug/netcoreapp3.1/GameOOP.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/Polymorphism/GameOOP/obj/Debug/netcoreapp3.1/GameOOP.dll
+/Users/dmn/Projects/Polymorphism/GameOOP/obj/Debug/netcoreapp3.1/GameOOP.pdb
+/Users/dmn/Projects/Polymorphism/GameOOP/obj/Debug/netcoreapp3.1/GameOOP.genruntimeconfig.cache
