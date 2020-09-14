@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{AB149398-5529-45F6-B19B-59C397816C1B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Polymorphism PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GameOOP FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameOOP/Classes/Warrior.cs">
+    <Files>
+      <File FileName="Polymorphism/Program.cs" Line="42" Column="45" />
+      <File FileName="Polymorphism/Classes/Animal.cs" Line="25" Column="40" />
+      <File FileName="Polymorphism/Classes/Dog.cs" Line="11" Column="24" />
+      <File FileName="Polymorphism/Classes/AnimalIDInfo.cs" Line="7" Column="50" />
+      <File FileName="GameOOP/Program.cs" Line="1" Column="1" />
+      <File FileName="GameOOP/Classes/Warrior.cs" Line="10" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Polymorphism" expanded="True">
+            <Node name="GameOOP" expanded="True">
+              <Node name="Classes" expanded="True">
+                <Node name="Warrior.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
